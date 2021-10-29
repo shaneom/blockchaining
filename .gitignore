@@ -1,0 +1,9 @@
+logs
+*.log
+*.sln
+*.usr
+*.sqlproj
+*.sqlproj.user
+*.suo
+*.eslintrc.json
+node_modules/
